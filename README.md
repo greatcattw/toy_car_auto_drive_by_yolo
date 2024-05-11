@@ -38,6 +38,8 @@ greatcattw/webcam_rasp_for_auto_drive
 最下方的角錐,位於圖片水平右側區域,往左前  
 沒有偵測到角錐,停止  
 <br>
+![pic](pic/run.jpg)
+<br>
 basic2.py,加入手勢啟動與停止  
 <br>
 ![pic](pic/finger.jpg)
