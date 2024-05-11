@@ -39,7 +39,9 @@ greatcattw/webcam_rasp_for_auto_drive
 沒有偵測到角錐,停止  
 <br>
 basic2.py,加入手勢啟動與停止  
-
+<br>
+![pic](pic/finger.jpg)
+<br>
 
 ## 4.執行
 藍芽 + arduino控制馬達,這是很成熟的技術了.  
