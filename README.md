@@ -20,7 +20,8 @@ PC由藍芽操作玩具車的動力系統
 ## 1.圖片取得
 使用樹莓3B架設webcam,這是很成熟的技術了.  
 架設流程請參考這邊.  
-
+greatcattw/webcam_rasp_for_auto_drive 
+<br>
 ## 2.物件偵測
 本案使用ubuntu22  
 
@@ -32,5 +33,5 @@ PC由藍芽操作玩具車的動力系統
 藍芽 + arduino控制馬達,這是很成熟的技術了.  
 架設流程請參考這邊.  
 greatcattw/control_toy_car_over_bluetooth  
-
+<br>
 # In progress
