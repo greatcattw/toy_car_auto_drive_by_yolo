@@ -4,7 +4,7 @@ Using yolo 8  for toy car auto drive
 這個版本主要是為了  
 ### 容易學習  容易學習  容易學習  
 <br>
-# PIC
+# 的
 ![pic](pic/pic1.jpg)
 <br>
 ![pic](pic/pic2.jpg)
