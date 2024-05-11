@@ -29,5 +29,6 @@ PC由藍芽操作玩具車的動力系統
 ## 4.執行
 藍芽 + arduino控制馬達,這是很成熟的技術了.  
 架設流程請參考這邊.  
+greatcattw/control_toy_car_over_bluetooth  
 
 # In progress
