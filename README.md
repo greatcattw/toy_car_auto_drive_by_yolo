@@ -5,8 +5,10 @@ Using yolo 8  for toy car auto drive
 ### 容易學習  容易學習  容易學習  
 <br>
 <br>
-![pic](pic/pic1.jpg)<br>
-![pic](pic/pic2.jpg)<br>
+![pic](pic/pic1.jpg)
+<br>
+![pic](pic/pic2.jpg)
+<br>
 PC由WiFi讀取玩具車上的樹莓3B/Webcam取得影像  
 PC由藍芽操作玩具車的動力系統  
 
