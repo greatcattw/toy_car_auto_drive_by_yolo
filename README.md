@@ -2,8 +2,9 @@
 Using yolo 8  for toy car auto drive  
 使用yolo實作玩具車自動行駛  
 這個版本主要是為了  
-
-# 的
+容易學習  
+容易學習  
+容易學習  
 ![pic](pic/pic1.jpg)
 <br>
 ![pic](pic/pic2.jpg)
