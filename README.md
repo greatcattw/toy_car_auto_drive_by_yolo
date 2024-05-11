@@ -1,14 +1,14 @@
 # toy_car_auto_drive_by_yolo
-![pic](pic/pic1.jpg)
-<br>
-![pic](pic/pic2.jpg)
-<br>
 Using yolo 8  for toy car auto drive  
 使用yolo實作玩具車自動行駛  
 這個版本主要是為了  
 ### 容易學習  容易學習  容易學習  
 <br>
 # .
+![pic](pic/pic1.jpg)
+<br>
+![pic](pic/pic2.jpg)
+<br>
 PC由WiFi讀取玩具車上的樹莓3B/Webcam取得影像  
 PC由藍芽操作玩具車的動力系統  
 
