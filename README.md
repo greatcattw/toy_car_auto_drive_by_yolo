@@ -1,3 +1,5 @@
+# In progress
+
 # toy_car_auto_drive_by_yolo
 Using yolo 8  for toy car auto drive  
 使用yolo實作玩具車自動行駛  
@@ -63,11 +65,11 @@ greatcattw/control_toy_car_over_bluetooth
 # 架設
 ## 軟體架設:  
 安裝 ubuntu 22  
-安裝 anacoda 
-安裝會用到旳pyhton套件
+安裝 anacoda  
+安裝會用到旳pyhton套件  
 
 ## 硬體架設:  
-本案使用
+本案使用  
 PC(Linux) --- USB2UART(FT232) --- HC05(BT host) --- HC05(BT device) --- arduino --- 電子變速器2x --- 馬達x2  
 若安裝OK,應該會有/dev/ttyUSB0這個節點,需要開放權限  
 sudo chmod a+rw /dev/ttyUSB0  
@@ -75,22 +77,22 @@ sudo chmod a+rw /dev/ttyUSB0
 
 # 測試
 ## 連線測試
-設定UART
+設定UART  
 stty -F /dev/ttyUSB0 ispeed 9600 cs8 -parenb -cstopb  
 
 馬達低速正轉  
 echo -ne "\x1\x6e\x2\x6e\x3" > /dev/ttyUSB0  
 
 馬達停止  
-echo -ne "\x1\x64\x2\x64\x3" > /dev/ttyUSB0
+echo -ne "\x1\x64\x2\x64\x3" > /dev/ttyUSB0  
 
 ## 運轉測試
 把玩具車架高,用以觀查攝影機與輪子的狀況.  
 執行  
 python basci1.py  
-把角錐放在攝影機前,兩個輪子應該都會運轉.
-把角錐放在攝影機右側,左側的輪子會轉動較快.
-把角錐放在攝影機左側,右側的輪子會轉動較快.
-攝影機看不到角錐.兩個輪子都會停止運轉.
+把角錐放在攝影機前,兩個輪子應該都會運轉.  
+把角錐放在攝影機右側,左側的輪子會轉動較快.  
+把角錐放在攝影機左側,右側的輪子會轉動較快.  
+攝影機看不到角錐.兩個輪子都會停止運轉.  
 
-# In progress
+
