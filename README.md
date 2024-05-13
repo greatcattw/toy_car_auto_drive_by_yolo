@@ -32,8 +32,8 @@ Using yolo 8  for toy car auto drive
 
 ## 1.圖片取得
 使用樹莓3B架設webcam,這是很成熟的技術了.  
-架設流程請參考這邊.  
-greatcattw/webcam_rasp_for_auto_drive 
+架設流程請參考這邊.更多細節自行google  
+greatcattw/webcam_rasp_for_auto_drive_mjpg-streamer 
 <br>
 ## 2.物件偵測
 本案使用ubuntu22  
@@ -56,7 +56,7 @@ basic2.py,加入手勢啟動與停止
 
 ## 4.執行
 藍芽 + arduino控制馬達,這是很成熟的技術了.  
-架設流程請參考這邊.  
+架設流程請參考這邊.更多細節自行google    
 greatcattw/control_toy_car_over_bluetooth  
 <br>
 # In progress
