@@ -62,7 +62,7 @@ basic2.py,加入手勢啟動與停止
 greatcattw/control_toy_car_over_bluetooth  
 <br>
 
-# 架設
+# 架設 - in progress
 ## 軟體架設:  
 安裝 ubuntu 22  
 安裝 anacoda  
