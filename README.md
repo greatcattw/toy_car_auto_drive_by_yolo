@@ -61,12 +61,39 @@ basic2.py,加入手勢啟動與停止
 架設流程請參考這邊.更多細節自行google    
 greatcattw/control_toy_car_over_bluetooth  
 <br>
-
 # 架設  
 ## 軟體架設:  - in progress
 安裝 ubuntu 22  
 安裝 anacoda  
 安裝會用到旳pyhton套件  
+操作參考指令  
+sudo apt-get update  
+  
+cd ~/xxxx/sw_anaconda/  
+./Anaconda3-2024.02-1-Linux-x86_64.sh  
+...  
+[enter]  
+[space]x74  
+  
+---Anaconda3 will now be installed into this location:  
+---/home/xxxxxx/anaconda3  
+yes  
+  
+---You can undo this by running `conda init --reverse $SHELL`? [yes|no]  
+yes  
+  
+new_terminal_window  
+  
+conda env create -f environment_yolov8.yml  
+pip install ultralytics  
+pip install keyboard  
+pip install pyserial  
+  
+python yolov8_pred_test.py  
+if ok, you will see:  
+![pic](pic/chk_yolo1.jpg)
+<br>  
+
 
 ## 硬體架設:  
 本案使用  
