@@ -91,7 +91,7 @@ pip install pyserial
   
 python yolov8_pred_test.py  
 if ok, you will see:  
-![pic](pic/chk_yolo1.jpg)
+![pic](pic/chk_yolo1.png)
 <br>  
 
 
