@@ -3,10 +3,9 @@
 # toy_car_auto_drive_by_yolo
 Using yolo 8  for toy car auto drive  
 [[Video_1]](https://youtu.be/0ZFqMQCc-RQ)
-<br>
-<br>
+<br><br>
 [[Video_2]](https://youtu.be/89byK5cuNVY)
-<br>
+<br><br>
 使用yolo實作玩具車自動行駛  
 這個版本主要是為了  
 容易學習  
