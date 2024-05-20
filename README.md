@@ -14,7 +14,8 @@ Using yolo 8  for toy car auto drive
 為了容易學習,把系統分成二個單元  
 單元1:PC由WiFi讀取玩具車上的樹莓3B/Webcam取得影像  
 單元2:PC由藍芽操作玩具車的動力系統  
-
+![pic](pic/structure.png)
+<br>
 如果把樹莓放在玩具車上,每秒可以做更多次的判斷,會有更好的駕駛行為.  
 但是這需要更多的編程工藝水準.  
 
@@ -31,7 +32,9 @@ Using yolo 8  for toy car auto drive
 2.物件偵測 detect object  
 3.決策 decision  
 4.執行  execution  
-
+<br>
+![pic](pic/loop.png)
+<br>
 ## 1.圖片取得
 使用樹莓3B架設webcam,這是很成熟的技術了.  
 架設流程請參考這邊.更多細節自行google  
