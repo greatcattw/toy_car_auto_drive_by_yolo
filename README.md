@@ -50,7 +50,8 @@ greatcattw/webcam_rasp_for_auto_drive_mjpg-streamer
 
 ## 3.決策
 使用python  
-為了容易學習,basic1.py,處理的邏輯為  
+為了容易學習,  
+basic1.py,處理的邏輯為  
 最下方的角錐,位於圖片水平中央區域,直行  
 最下方的角錐,位於圖片水平左側區域,往右前  
 最下方的角錐,位於圖片水平右側區域,往左前  
