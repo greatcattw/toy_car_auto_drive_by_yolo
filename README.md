@@ -143,7 +143,7 @@ python basci1.py
 # 其它
 ## 鏡頭選用
 一般視訊用的鏡頭視角較窄,可能略為轉向,就看不到角錐了.選用廣角視角的攝影機,要找低畸變的的.  
-![pic](pic2/parameter3.png)
+![pic](pic2/paramter3.png)
 常見的Logi C270,視角55度  
 ![pic](pic2/logia.jpg)
 <br><br>  
