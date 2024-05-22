@@ -40,9 +40,11 @@ Using yolo 8  for toy car auto drive
 ![pic](pic/loop.png)
 <br>
 ## 1.圖片取得
-使用樹莓3B架設webcam,這是很成熟的技術了.  
-架設流程請參考這邊.更多細節自行google  
+為了容易學習,使用樹莓3B架設webcam.
+這是很成熟的技術了. 架設流程請參考如下.更多細節自行google  
 greatcattw/webcam_rasp_for_auto_drive_mjpg-streamer 
+<br>
+實用上,Linkit7688/mt7688更省電/輕量化/省錢的選擇.
 <br>
 ## 2.物件偵測
 本案使用ubuntu22  
