@@ -140,4 +140,21 @@ python basci1.py
 把角錐放在攝影機左側,右側的輪子會轉動較快.  
 攝影機看不到角錐.兩個輪子都會停止運轉.  
 
-
+# 其它
+## 鏡頭選用
+視角要廣角的,一般視訊用的鏡頭視角較窄,可能略為轉向,就看不到角錐了.  
+常見的Logi C270,視角55度  
+![pic](pic2/logia.jpg)
+<br><br>  
+135度的USB攝影機  
+![pic](pic2/cam135a.jpg)
+...
+![pic](pic2/cam135b.jpg)
+<br><br>
+測試方式  
+![pic](pic2/logib.jpg)
+<br>
+左是logi_c270
+![pic](pic2/logic.jpg)
+...
+![pic](pic2/cam135c.jpg)
