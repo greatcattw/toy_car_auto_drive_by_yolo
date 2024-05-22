@@ -69,6 +69,14 @@ basic2.py,加入手勢啟動與停止
 架設流程請參考這邊.更多細節自行google    
 greatcattw/control_toy_car_over_bluetooth  
 <br>
+也可以找些機電整合好的車台,下指今即可動作,新手可以專注在AI的處理.  
+履帶類的車台是最佳的選擇.不晃動.不同的路面材質不會影響到行走表現.  
+圖中的二輪車,要重設PID參數,不然會晃動,累~  
+<br>
+![pic](pic/biwheel.jpg)
+<br>
+
+<br>
 # 架設  
 ## 軟體架設:  - in progress
 安裝 ubuntu 22  
