@@ -1,4 +1,3 @@
-# In progress ...
 # install OS
 install U22 by SD card  
 require my password to logi in  
@@ -29,9 +28,9 @@ now complite. [OK]
 <br>
 reboot  
 <br>
-## check-step
+## verify
 nvidia-smi  
-
+<br>
 # install cudnn
 sudo dpkg -i cudnn-local-repo-ubuntu2204-9.1.1_1.0-1_amd64.deb  
 sudo cp /var/cudnn-local-repo-ubuntu2204-9.1.1/cudnn-*-keyring.gpg /usr/share/keyrings/  
@@ -48,12 +47,12 @@ yes
 --SHELL  
 yes  
 <br>
-## test-step
+## verify
 new terminal,  
 (base)  
 <br>
 # install py lib for yolo  
 pip ultralytics  
-
----test-step
+<br>
+## verify
 python yolov8_pred_test.py
