@@ -52,7 +52,7 @@ new terminal,
 (base)  
 <br>
 # install py lib for yolo  
-pip ultralytics  
+pip install ultralytics  
 <br>
 ## verify
 python yolov8_pred_test.py
