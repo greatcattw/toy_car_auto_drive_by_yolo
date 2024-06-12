@@ -78,10 +78,9 @@ greatcattw/control_toy_car_over_bluetooth
 <br>
 ![pic](pic/biwheel.jpg)
 <br>
-
 <br>
-# 架設  
-## 軟體架設:  - in progress
+# 架設    
+## 軟體架設:  
 安裝 ubuntu 22  
 安裝 anacoda  
 安裝會用到旳pyhton套件  
