@@ -121,7 +121,7 @@ sudo chmod a+rw /dev/ttyUSB0
 
 
 # 測試
-## 連線測試
+## 連線測試_履帶車
 設定UART  
 stty -F /dev/ttyUSB0 ispeed 9600 cs8 -parenb -cstopb  
 
