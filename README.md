@@ -97,7 +97,7 @@ cd ~/xxxx/sw_anaconda/
 ---/home/xxxxxx/anaconda3  
 yes  
   
----You can undo this by running `conda init --reverse $SHELL`? [yes|no]  
+---You can undo this by running conda init --reverse $SHELL? [yes|no]  
 yes  
   
 new_terminal_window  
